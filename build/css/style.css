@@ -265,6 +265,8 @@ header .intro-text {
 }
 #exchange img{
     border-radius: 5%;
+    padding-bottom: 20px;
+    padding-top: 20px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 /* About Section */
