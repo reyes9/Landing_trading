@@ -41,8 +41,11 @@ export const Contact = (props) => {
             <div className='row'>
               <div className='section-title'>
                 <h2>Start trading with us for <big>  Free</big></h2>
+                <button type='submit' className='btn btn-custom btn-lg'>
+                  Send Message
+                </button>
                 <p>
-                  Please fill out the form below to send us an email and we will
+                  Any question? Send us an email and we will
                   get back to you as soon as possible.
                 </p>
               </div>
