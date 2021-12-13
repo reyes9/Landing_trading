@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Landing_trading/static/css/main.83b5dced.chunk.css",
+    "main.js": "/Landing_trading/static/js/main.4a4e6d71.chunk.js",
+    "main.js.map": "/Landing_trading/static/js/main.4a4e6d71.chunk.js.map",
+    "runtime-main.js": "/Landing_trading/static/js/runtime-main.4e0b536a.js",
+    "runtime-main.js.map": "/Landing_trading/static/js/runtime-main.4e0b536a.js.map",
+    "static/js/2.75e60edc.chunk.js": "/Landing_trading/static/js/2.75e60edc.chunk.js",
+    "static/js/2.75e60edc.chunk.js.map": "/Landing_trading/static/js/2.75e60edc.chunk.js.map",
+    "index.html": "/Landing_trading/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/Landing_trading/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.75e60edc.chunk.js.LICENSE.txt": "/Landing_trading/static/js/2.75e60edc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e0b536a.js",
+    "static/js/2.75e60edc.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.4a4e6d71.chunk.js"
+  ]
+}
