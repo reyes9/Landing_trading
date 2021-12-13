@@ -44,6 +44,7 @@ export const Contact = (props) => {
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
+                <h2>Start trading with us for <big>  Free</big></h2>
                 <a href="https://t.me/binance_king_bot" target="_blank">
                   <button className='btn btn-custom btn-lg'>
                     Open Telegram for free trading
