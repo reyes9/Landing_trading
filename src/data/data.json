@@ -1,0 +1,148 @@
+{
+  "Header": {
+    "title": "The best automated crypto trading bot",
+    "paragraph": "Fest automated trading for Bitcoin, Ethereum, Litecoin, Rune and more. Invest in cryptocurrencies as an expert without spend your time looking plots. Trade 24/7 and save your time."
+  },
+  "About": {
+    "paragraph": "Trading bot was launched in 2021 to automate the trading operations. The bot was designed by a IT team with experience in trading world. We start with Bitcoin and after the good results, we expand the trades to other cryptos.",
+    "Why": [
+      "Experienced team",
+      "Financial knowledge",
+      "Continuous improvement",
+      "Searching new markets"
+    ]
+  },
+  "Exchange": {
+    "paragraph": "Our bot is available for all the exchanges of the market. Doesn't matter where you are trading, you can connect it and start to trade.",
+    "Why": [
+      "Binance",
+      "CoinBase",
+      "CoinBase Pro",
+      "BitFinex"
+    ],
+    "Why2": [
+      "Bitstamp",
+      "Crypto.com",
+      "Kraken",
+      "And much more"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Connect with Binance",
+      "largeImage": "https://www.binance.com/en/support/faq/360002502072",
+      "smallImage": "img/portfolio/binance.png"
+    },
+    {
+      "title": "Connect with Coinbase",
+      "largeImage": "https://developers.coinbase.com",
+      "smallImage": "img/portfolio/coinbase.jpeg"
+    },
+    {
+      "title": "Connect with Coinbase Pro",
+      "largeImage": "https://developers.coinbase.com/docs/exchange",
+      "smallImage": "img/portfolio/coinbase_pro.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-desktop",
+      "name": "Triple screen strategy",
+      "text": "Like a lot of professional traders, the bot uses this system to trade looking for the best signals to entry to the market."
+    },
+    {
+      "icon": "fa fa-trophy",
+      "name": "Start to achieve your goals",
+      "text": "Focused on rational trade without feelings. The bot keeps the strategy configured and follows the best return to increase our incomes."
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "name": "Real time connected",
+      "text": "The bot is available 24/7 and connected in real-time. If the market shows a great moment to trade, the bot will detect and start the trading."
+    },
+    {
+      "icon": "fa fa-paper-plane",
+      "name": "Receive all the alerts in Telegram",
+      "text": "The bot is connected with Telegram to don't miss anything of your trades. You will receive alerts of your trades of buy and sell. Also, if you only want to start reviewing the bot, you can receive the bests moments to buy and sell on your Telegram."
+    },
+    {
+      "icon": "fa fa-search-plus",
+      "name": "Deep look to the market",
+      "text": "The system review the market every second on different levels to find the best signals to trade. The bot will be reviewing different coins at different levels of the market at the same time!"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Don't put all your eggs in the same basket",
+      "text": "Divide your investments in different coins. Follow different cryptos and take all the possible profit of the market."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"I don't understand cryptocurrencies very well but from what I saw in the demo you can profit.\"",
+      "name": "Danny Pie"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Good service, powerful features, effective, affordable. Highly recommend.\"",
+      "name": "Sophie Leppen"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Took a while to get used to the settings, but once I got the hang of it, the app has been great.\"",
+      "name": "Mike Harper"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Spain | UK | France",
+    "phone": "+1 123 456 1234",
+    "email": "reyesvera9@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-line-chart",
+      "title": "Improve your benefits",
+      "text": "Trade without fears. Connect your exchange to the bot and start the trading strategy."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Receive all the alerts",
+      "text": "The bot is connected to Telegram to notify all the alerts to buy and sell. Don't miss any move of your crypto."
+    },
+    {
+      "icon": "fa fa-btc",
+      "title": "Select the best cryptos",
+      "text": "You can select the cryptos that you want to trade. Choose your coins and earn money!"
+    },
+    {
+      "icon": "fa fa-bolt",
+      "title": "Trade 24 / 7",
+      "text": "Could you trade all day? Delegate the trading process to a bot and don't miss the best entry moments"
+    }
+  ]
+}
