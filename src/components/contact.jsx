@@ -45,7 +45,9 @@ export const Contact = (props) => {
             <div className='row'>
               <div className='section-title'>
                 <a href="https://t.me/binance_king_bot" target="_blank">
-                  <Button>Open Telegram for free trading</Button>
+                  <button className='btn btn-custom btn-lg'>
+                    Open Telegram for free trading
+                  </button>
                 </a>
                 <p>
                   Any question? Send us an email and we will
