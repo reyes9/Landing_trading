@@ -329,6 +329,7 @@ header .intro-text {
   position: relative;
   margin-bottom: 15px;
   padding-bottom: 15px;
+  padding-top: 20px;
 }
 #exchange h2::after {
   position: absolute;
@@ -355,7 +356,6 @@ header .intro-text {
 }
 #exchange img {
   width: 520px;
-  margin-top: 20px;
   background: #fff;
   border-right: 0;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
